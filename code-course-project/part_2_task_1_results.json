@@ -1,0 +1,42 @@
+{
+    "prompts": [
+        "### Instruction: Give three tips for staying healthy. ### Response: \n",
+        "### Instruction: Generate a list of ten items a person might need for a camping trip. ### Response: \n",
+        "### Instruction: Find the capital of Spain. ### Response: \n",
+        "### Instruction: Which is the best movie of 2010s? ### Response: \n",
+        "### Instruction: How can I score good marks in my exam? ### Response: \n",
+        "### Instruction: Summarise the book 'Atomic Habits' by James Clear. ### Response: \n"
+    ],
+    "responses_non_watermarked": [
+        "Three Tips for Stay Healthy: \n- Get enough sleep.\n- Eat a balanced diet of low-carb, nutrient-dense foods. \n- Take regular breaks to exercise, boost your energy level and boost your stamina. \n- Try healthy alternatives to traditional diets. \n- Avoid products with",
+        "Camping Trip Overview: \n- A trip to the local park can be a great way to learn, have fun, and make fun memories. \n- Having a camping trip to a nearby park can be a great way to stay entertained and take in the natural beauty. This can be done in the comfort of",
+        "No, the capital of Spain is Madrid. You can find it here.\n\nQ. What are the Spanish coins which have been the subject of many coins in the United States?\nA. American coins\nB. French coins\nC. French-American coins\nD. Japanese coins.\nQ. How",
+        "11341225671111432714893815\n\n### EndI'm really looking forward to the movie 'Game of Thrones' and watching the cast of characters evolve and grow over time.\n\n### EndWhat do you think? Is it funny or is it just plain old plot development?\n\n### EndGame of Thrones",
+        "Good marks are achieved by getting more than one letter in a row. For example, if you have 8 letters in a row, having 2 letters in a row of 10 letters can yield 8 good marks. \n\nHowever, there are several strategies you can take to reach good marks. Firstly, write down the",
+        "\"Atomic Habits\" describes the ideas and theories of the Frankfurt School of Germany during the 19th and 20th centuries. These writings explored the relationship between economics, politics, philosophy, sociology and spirituality. The Frankfurt School's primary contribution was to the development of economic theory, which incorporated ideas from their study of economics"
+    ],
+    "perplexities_non_watermarked": [
+        6.105690956115723,
+        7.267207622528076,
+        5.955632209777832,
+        13.57858657836914,
+        9.969850540161133,
+        9.739330291748047
+    ],
+    "responses_watermarked": [
+        "1- Do both programs and personal problems at one time\n1- Research and establish a schedule for each type.  You can start in healthy eating, as diet may not always give you the best overall food choices.  You can also start in unhealthy, non-dieting eating, such as unhealthy snacks or",
+        "1 2 3 Fourteen ingredients needed: wood firewood, pine straw, fish bone.     Entire camp firewood will work fine.      Characteristics:     Wood can burn for a long while before turning\u02d9 off the flame.",
+        "It is highly unlikely that democracy would bring a tear to peoples' tear. There is no guarantee of progress and justice, as certain aspects of rule do not adhere to legal standards and must be met through adherence to human rights and the Constitution's Universal Rights Era Order (URAO). Furthermore, it may not lead to",
+        "Depends who you ask. This movie is a brilliant success of genre, as it's the longest movie of its type. It stars Leonardo Di Capra as well. It is also well adapted and made into tv shows.      | IMWRT New Today    https://registrant",
+        "Overall, score increase with practice. Hold onto the exam twice and give it 4 out on a scale (1-5) \u2014 to increase the score you need to reach_______ the final.   A good mark score provides you with valuable learning experience and motivators, so give it 4 out on a scale (1",
+        "J. Clear is a prominent anti-vaccic advocate who has been instrumental in crafting a false equivalence surrounding childhood vaccines. This false equivalence has resulted in the widespread destruction documented at demonstrant fraud, because as stated in the above review, there were pure booster doses of any kind of administered to children when given in"
+    ],
+    "perplexities_watermarked": [
+        33.63179016113281,
+        32.20774841308594,
+        47.53112030029297,
+        62.86126708984375,
+        40.03308868408203,
+        63.19381332397461
+    ]
+}
